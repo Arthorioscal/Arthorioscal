@@ -3,8 +3,8 @@
   <p>🖥 CompSci at UNIMA</p>
   <p>📚 Studying Web Development using Rails through TreinaDev12 Bootcamp</p>
   <p>🔰 Knowledge seeker</p>
-  <p>📫 Email:arthurscortegagna@gmail.com</p>
-  
+  <p>📫 Email: <a href="mailto:arthurscortegagna@gmail.com">arthurscortegagna@gmail.com</a></p>
+
   <h1>My tech stack</h1>
   <div align="center">
   	<table>
