@@ -1,7 +1,6 @@
 <body style="font-family: Arial, sans-serif; font-size: 12px">
   <h1> Hi there 👋 </h1>
   <p>🖥 CompSci at UNIMA</p>
-  <p>🔰 Knowledge seeker</p>
   <p>📫 Email: <a href="mailto:arthurscortegagna@gmail.com">arthurscortegagna@gmail.com</a></p>
 
   <h1>My tech stack</h1>
